@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<h1>Daniel Coimbra</h1>
+
+
 ```
 Business IT Student - Software Developer 
 ```
