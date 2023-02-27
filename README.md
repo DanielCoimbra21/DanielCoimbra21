@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```
-Business IT Student
+Business IT Student - Software Developer 
 ```
 
 I am currently studying Business IT where I've learn database design, programming, project management and business analytics. </br>
