@@ -48,5 +48,10 @@ In addition, I have participated in coding projects and hackathons, where I have
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+# self-continuous learning
+
+- **Cybersecurity**: I do multiple CTF challenges on TryHackMe, Offensive Security and Hack The Box platforms. I am currently doing the **eJPT certification**
+
+- **Programming**: I started learning Angular and started to do some scripts using python or bash
 
 
