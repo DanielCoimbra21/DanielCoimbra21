@@ -50,7 +50,8 @@ In addition, I have participated in coding projects and hackathons, where I have
 
 # self-continuous learning
 
-- **Cybersecurity**: I do multiple CTF challenges on TryHackMe, Offensive Security and Hack The Box platforms. I am currently doing the **eJPT certification**
+- **Cybersecurity**: I did multiple CTF challenges on TryHackMe, Offensive Security and Hack The Box platforms. 
+-- I am currently doing the **eJPT certification**
 
 - **Programming**: I started learning Angular and started to do some scripts using python or bash
 
