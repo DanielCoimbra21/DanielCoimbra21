@@ -3,7 +3,7 @@
 
 
 ```
-Business IT Student - Software Developer / self-leaning Pentester
+Business IT Student - Software Developer / self-learning Pentester
 ```
 
 I am currently studying Business IT where I've learn database design, programming, project management and business analytics. </br>
